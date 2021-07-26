@@ -47,11 +47,10 @@ print ''
 print ''
 print ''
 target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:'
-account = int(input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
+username = input("Enter Your Terget FB username or ID:")
+print ("Your Target", end=" ")
+print (username)
 print ''
-print 'Your Target'
-print ''
-print (account)
 print ''
 print 'Creacking User Info......'
 print ''

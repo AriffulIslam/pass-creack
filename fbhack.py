@@ -52,10 +52,12 @@ for i in range(account):
     data = { }
 print ''
 print ''
-for i in range(account):
+print ''
 print 'Creacking User Info......'
 print ''
+print ''
 print 'Cheaking Security'
+prin ''
 print ''
 logop(red + '        \xe2\x9c\xaa Cheaking Password \xe2\x9c\xaa ')
 print''

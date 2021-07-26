@@ -57,7 +57,7 @@ print 'Creacking User Info......'
 print ''
 print ''
 print 'Cheaking Security'
-prin ''
+print ''
 print ''
 logop(red + '        \xe2\x9c\xaa Cheaking Password \xe2\x9c\xaa ')
 print''

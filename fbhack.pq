@@ -46,8 +46,8 @@ print ''
 print ''
 print ''
 print ''
-target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:'
-username = input("Enter Your Terget FB username or ID:")
+target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:')
+username = input("Enter Targted FB ID or username: ")
 print ("Your Target" + username )
 print ''
 print ''

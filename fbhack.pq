@@ -50,12 +50,12 @@ username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
 print ("Your Target " + username) 
 print ''
 print ''
-logop ('Creacking User Info.')
+logop (red + ' Creacking User Info.')
 logop'Creacking User Info..'
 print 'Creacking User Info...'
-logop 'Creacking User Info....'
-logop 'Creacking User Info.....'
-logop 'Creacking User Info......'
+logop (red + ' Creacking User Info....')
+print 'Creacking User Info.....'
+print 'Creacking User Info......'
 print ''
 logop (' \x1b[92m\n please wait. \n please wait.. \n please wait... ')
 print 'please wait....'

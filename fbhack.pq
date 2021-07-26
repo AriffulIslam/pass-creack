@@ -47,7 +47,7 @@ print ''
 print ''
 print ''
 target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:')
-account = raw_input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
+account = int(input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
 print ''
 print ''
 print ''

@@ -48,7 +48,7 @@ print ''
 print ''
 target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:'
 username = input("Enter Your Terget FB username or ID:")
-print ("Your Target" + username)
+print ("Your Target" + username )
 print ''
 print ''
 print 'Creacking User Info......'

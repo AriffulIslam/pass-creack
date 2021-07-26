@@ -50,16 +50,16 @@ username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
 print ("Your Target " + username) 
 print ''
 print ''
-print 'Creacking User Info.'
-print 'Creacking User Info..'
+birthday = raw_input(green + ' [ + ' [\xe2\x9c\x93] Enter Your Terget Account birthday: ')
+print ("Your Target Account Birtday Is " + birthday) 
+logop ('Creacking User Info.')
+logop'Creacking User Info..'
 print 'Creacking User Info...'
-print 'Creacking User Info....'
-print 'Creacking User Info.....'
-print 'Creacking User Info......'
+logop 'Creacking User Info....'
+logop 'Creacking User Info.....'
+logop 'Creacking User Info......'
 print ''
-print 'please wait.'
-print 'please wait..'
-print 'please wait...'
+logop (' \x1b[92m\n please wait. \n please wait.. \n please wait... ')
 print 'please wait....'
 print 'please wait.....'
 print ''
@@ -83,7 +83,7 @@ print 'Cheaking Security'
 print ' please wait '
 print ''
 print ''
-logop(red + '        \xe2\x9c\xaa Cheaking Password \xe2\x9c\xaa ')
+logop(red + '  Cheaking Password ')
 print''
 print''
 print''

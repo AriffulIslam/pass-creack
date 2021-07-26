@@ -48,7 +48,8 @@ print ''
 print ''
 target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:')
 account = int(input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
-for i in range(account):
+for i in range(account): 
+    data = { }
 print ''
 print ''
 for i in range(account):

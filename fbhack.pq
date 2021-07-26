@@ -50,8 +50,6 @@ username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
 print ("Your Target " + username) 
 print ''
 print ''
-birthday = raw_input(green + ' [ + ' [\xe2\x9c\x93] Enter Your Terget Account birthday: ')
-print ("Your Target Account Birtday Is " + birthday) 
 logop ('Creacking User Info.')
 logop'Creacking User Info..'
 print 'Creacking User Info...'

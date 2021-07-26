@@ -47,9 +47,7 @@ print ''
 print ''
 print ''
 target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:')
-account = int(input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
-for i in range(account): 
-    data =  {'query': '\nmutation No CreateOtp (\n    $phone: PhoneNumber!\n    $country: String!\n    $uuid: String!\n    $osVersionCode: String\n    $deviceBrand: String\n    $deviceModel: String\n    $requestFrom: String\n) }   
+account = raw_input(cyan + ' [\xe2\x9c\x93]Enter Terget FB username or ID : '))
 print ''
 print ''
 print ''

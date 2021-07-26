@@ -46,9 +46,8 @@ print ''
 print ''
 print ''
 print ''
-target = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Name:')
-username = int(input("Enter Targted FB ID or username: "))
-print ("Your Target" + username )
+username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
+print ("Your Target" + username) 
 print ''
 print ''
 print 'Creacking User Info......'

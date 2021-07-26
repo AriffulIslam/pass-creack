@@ -51,7 +51,7 @@ print ("Your Target " + username)
 print ''
 print ''
 logop (red + ' Creacking User Info.')
-logop'Creacking User Info..'
+logop (green + ' Creacking User Info..')
 print 'Creacking User Info...'
 logop (red + ' Creacking User Info....')
 print 'Creacking User Info.....'

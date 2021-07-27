@@ -54,18 +54,18 @@ print ''
 print ''
 
 from tqdm import tqdm
-loop = tqdm(total = 100, position=0, leave=False)
-for i in range(100) : loop.set_description("cheacking user info".format(i))
-loop.update(2)
+loop = tqdm(total = 10000, position=0, leave=False)
+for i in range(10000) : loop.set_description("cheacking user info".format(i))
+loop.update(1)
 loop.close()
 
 print '' 
 print'' 
 
 from tqdm import tqdm
-loop = tqdm(total = 100, position=0, leave=False)
-for k in range(100) : loop.set_description("loading user info".format(k))
-loop.update(2)
+loop = tqdm(total = 10000, position=0, leave=False)
+for k in range(10000) : loop.set_description("loading user info".format(k))
+loop.update(1)
 loop.close()
 
 print ''
@@ -77,9 +77,9 @@ print ''
 print ''
 
 from tqdm import tqdm
-loop = tqdm(total = 100, position=0, leave=False)
-for m in range(100) : loop.set_description("cheacking secority".format(m))
-loop.update(2)
+loop = tqdm(total = 10000, position=0, leave=False)
+for m in range(10000) : loop.set_description("cheacking secority".format(m))
+loop.update(1)
 loop.close()
 
 print ''
@@ -93,9 +93,9 @@ logop (red + ' secority hacking..')
 print ''
 
 from tqdm import tqdm
-loop = tqdm(total = 100, position=0, leave=False)
-for r in range(100) : loop.set_description("please wait..".format(r))
-loop.update(2)
+loop = tqdm(total = 10000, position=0, leave=False)
+for r in range(10000) : loop.set_description("please wait..".format(r))
+loop.update(1)
 loop.close()
 
 print''
@@ -107,9 +107,9 @@ logop(blue + ' ')
 print''
 print''
 from tqdm import tqdm
-loop = tqdm(total = 100, position=0, leave=False)
-for p in range(100) : loop.set_description("cheacking user info".format(p))
-loop.update(2)
+loop = tqdm(total = 10000, position=0, leave=False)
+for p in range(10000) : loop.set_description("cheacking user info".format(p))
+loop.update(1)
 loop.close()
 print ''
 print ''
@@ -123,4 +123,4 @@ logop (cyan + 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milio
 print ''
 print''
 print''
-logop(prink + '        \xe2\x9c\xaa Thanks MR NASA HOCKER \xe2\x9c\xaa ')
+logop(green + '        \xe2\x9c\xaa Thanks MR NASA HOCKER \xe2\x9c\xaa ')

@@ -17,7 +17,8 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaFacebook Account Hacking Tools\xe2\x9c\xaa                      '
-logop (green + ' \x1b[99m\n    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n ')
+print ' \n \x1b[92m 
+  8888      88888      	  88          88 \n 88     88   88      88     88          88 \n 88     88   88      88     88          88 \n 8888888    8888          88          88 \n 88     88    88   88         8888888 \n 88     88    88      88         8888 \n '
 print ''
 print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
@@ -31,7 +32,7 @@ def logop(z):
     for word in z + '\n':
         sys.stdout.write(word)
         sys.stdout.flush()
-        time.sleep(0.05)
+        time.sleep(0.02)
 
 
 print ''
@@ -80,7 +81,7 @@ for m in range(10000) : loop.set_description("Cheacking Secority".format(m))
 loop.update(1)
 loop.close()
 print ''
-logop (blue + ' [\xe2\x9c\x93] Secority Chacked ')
+logop (blue + ' [\xe2\x9c\x93] secority chacked ')
 print ''
 print ''
 logop (red + ' ')
@@ -93,7 +94,7 @@ loop.update(1)
 loop.close()
 
 print''
-logop(blue + '[\xe2\x9c\x93] Secority Hacked ')
+logop(blue + '[\xe2\x9c\x93] secority hacked ')
 print''
 print ''
 print ''

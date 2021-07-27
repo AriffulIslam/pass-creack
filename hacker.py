@@ -83,7 +83,8 @@ print ''
 logop (cyan + ' please wait ') 
 print ''
 logop (cyan + ' please wait ') 
-print ''logop (cyan + ' please wait ') 
+print ''
+logop (cyan + ' please wait ') 
 print ''
 logop (cyan + ' please wait ') 
 print ''

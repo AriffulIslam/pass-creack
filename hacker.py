@@ -80,7 +80,7 @@ for m in range(10000) : loop.set_description("Cheacking Secority".format(m))
 loop.update(1)
 loop.close()
 print ''
-logop (blue + (f'[✓] secority chacked '))
+logop (blue + 'secority chacked ')
 print ''
 print ''
 logop (red + ' secority hacking..')
@@ -93,7 +93,7 @@ loop.update(1)
 loop.close()
 
 print''
-logop(blue + (f'[✓] secority hacked '))
+logop(blue + ' secority hacked ')
 print''
 print ''
 print ''

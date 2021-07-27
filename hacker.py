@@ -119,7 +119,7 @@ print ''
 logop (red + ' How Are You? ')
 print ''
 print ''
-logop (cyan 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milion Dolar Khoroc Kortece Cul Cirar jonno? ')
+logop (cyan + 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milion Dolar Khoroc Kortece Cul Cirar jonno? ')
 print ''
 print''
 print''

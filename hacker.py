@@ -59,14 +59,17 @@ for i in range(100) :
 loop.set_description("cheacking user info".format(i))
 loop.update(2)
 loop.close()
+
 print '' 
 print'' 
+
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
 for k in range(100) :
 loop.set_description("loading user info".format(k))
 loop.update(2)
 loop.close()
+
 print ''
 print ''
 print ''
@@ -74,12 +77,14 @@ logop (green + 'loaded user info')
 print ''
 print ''
 print ''
+
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
 for m in range(100) :
 loop.set_description("cheacking secority".format(m))
 loop.update(2)
 loop.close()
+
 print ''
 print ''
 print ''
@@ -88,12 +93,15 @@ print ''
 print ''
 print ''
 logop (red + ' secority hacking..')
+print ''
+
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
 for r in range(100) :
 loop.set_description("please wait..".format(r))
 loop.update(2)
 loop.close()
+
 print''
 logop(blue + ' secority hacked ')
 print''

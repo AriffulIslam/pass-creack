@@ -50,11 +50,13 @@ username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
 print ("Your Target " + username) 
 print ''
 print ''
+
 from tqdm import tqdm
-loop = tqdm(total = 5000, position=0, leave=False)
-for k in range(5000) : loop.set_description("ckeacking user info".format(k))
+loop = tqdm(total = 100, position=0, leave=False)
+for i in range(100) :
+loop.set_description("Ckeacking User Info".format(i))
 loop.update(1)
-lop.close()
+loop.close()
 logop (green + ' Creacking User Info.')
 logop (green + ' Creacking User Info..')
 print ''
@@ -83,8 +85,7 @@ print ''
 logop (cyan + ' please wait ') 
 print ''
 logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
+print ''logop (cyan + ' please wait ') 
 print ''
 logop (cyan + ' please wait ') 
 print ''

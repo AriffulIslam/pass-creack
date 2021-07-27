@@ -17,7 +17,7 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaFacebook Account Hacking Tools\xe2\x9c\xaa                      '
-print ' \n \x1b[99m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
+print ' \n \x1b[102m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
 print ''
 print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
@@ -83,12 +83,12 @@ print ''
 logop (blue + ' [\xe2\x9c\x93] secority chacked ')
 print ''
 print ''
-logop (red + ' secority hacking..')
+logop (red + ' ')
 print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 50000, position=0, leave=False)
-for r in range(50000) : loop.set_description("please wait..".format(r))
+for r in range(50000) : loop.set_description("Secority Hacking".format(r))
 loop.update(1)
 loop.close()
 
@@ -105,7 +105,6 @@ loop = tqdm(total = 50000, position=0, leave=False)
 for p in range(50000) : loop.set_description("Creacking Password".format(p))
 loop.update(1)
 loop.close()
-print ''
 print ''
 logop (yellow + 'Hi! Nasa Howkar')
 print ''

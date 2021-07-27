@@ -47,6 +47,8 @@ print ''
 print ''
 print ''
 username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
+print ''
+print ''
 print ("Your Target " + username) 
 print ''
 print ''
@@ -54,8 +56,8 @@ print ''
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
 for i in range(100) :
-loop.set_description("Ckeacking User Info".format(i))
-loop.update(1)
+loop.set_description(" Ckeacking User Info ".format(i))
+loop.update(2)
 loop.close()
 logop (green + ' Creacking User Info.')
 logop (green + ' Creacking User Info..')

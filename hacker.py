@@ -17,7 +17,7 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaFacebook Account Hacking Tools\xe2\x9c\xaa                      '
-print ' \n \x1b[96m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
+print ' \n \x1b[99m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
 print ''
 print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
@@ -49,13 +49,13 @@ print ''
 username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
 print ''
 print ''
-print ("Your Target " + username) 
+print ("Your Target" + username) 
 print ''
 print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 10000, position=0, leave=False)
-for i in range(10000) : loop.set_description("cheacking user info".format(i))
+for i in range(10000) : loop.set_description("Cheacking User Info".format(i))
 loop.update(1)
 loop.close()
 
@@ -70,7 +70,7 @@ loop.close()
 
 print ''
 print ''
-logop (green + 'loaded user info')
+logop (green + ' [\xe2\x9c\x93] Loaded User Info')
 print ''
 print ''
 
@@ -80,7 +80,7 @@ for m in range(10000) : loop.set_description("Cheacking Secority".format(m))
 loop.update(1)
 loop.close()
 print ''
-logop (blue + 'secority chacked ')
+logop (blue + ' [\xe2\x9c\x93] secority chacked ')
 print ''
 print ''
 logop (red + ' secority hacking..')
@@ -93,7 +93,7 @@ loop.update(1)
 loop.close()
 
 print''
-logop(blue + ' secority hacked ')
+logop(blue + '[\xe2\x9c\x93] secority hacked ')
 print''
 print ''
 print ''
@@ -117,4 +117,4 @@ logop (cyan + 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milio
 print ''
 print''
 print''
-logop(green + '        \U0001F923 Thanks MR NASA HOCKER \U0001F923 ')
+logop(green + '      Thanks MR. NASA HOCKER ')

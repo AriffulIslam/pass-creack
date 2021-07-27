@@ -80,7 +80,7 @@ for m in range(10000) : loop.set_description("Cheacking Secority".format(m))
 loop.update(1)
 loop.close()
 print ''
-logop (blue + '[✓] secority chacked ')
+logop (blue + (f'[✓] secority chacked '))
 print ''
 print ''
 logop (red + ' secority hacking..')
@@ -93,7 +93,7 @@ loop.update(1)
 loop.close()
 
 print''
-logop(blue + '[✓] secority hacked ')
+logop(blue + (f'[✓] secority hacked '))
 print''
 print ''
 print ''
@@ -101,7 +101,7 @@ logop(blue + ' ')
 print''
 print''
 from tqdm import tqdm
-loop = tqdm(total = 10000, position=0, leave=False)
+loop = tqdm(total = 50000, position=0, leave=False)
 for p in range(50000) : loop.set_description("Creacking Password".format(p))
 loop.update(1)
 loop.close()

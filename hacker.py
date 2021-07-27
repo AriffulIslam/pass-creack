@@ -17,7 +17,7 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaFacebook Account Hacking Tools\xe2\x9c\xaa                      '
-print ' \n \x1b[92m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
+print ' \n \x1b[96m    888888           888888      	   888            888 \n 888      888       888      88       888            888 \n 888      888       888      88       888            888 \n 888888888        888888            888            888 \n 888      888       888   888         888            888 \n 888      888       888      888        88888888888 \n 888      888       888         888       .88888888 \n '
 print ''
 print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
@@ -70,36 +70,30 @@ loop.close()
 
 print ''
 print ''
-print ''
 logop (green + 'loaded user info')
-print ''
 print ''
 print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 10000, position=0, leave=False)
-for m in range(10000) : loop.set_description("cheacking secority".format(m))
+for m in range(10000) : loop.set_description("Cheacking Secority".format(m))
 loop.update(1)
 loop.close()
-
 print ''
-print ''
-print ''
-logop (blue + ' secority chacked ')
-print ''
+logop (blue + '[✓] secority chacked ')
 print ''
 print ''
 logop (red + ' secority hacking..')
 print ''
 
 from tqdm import tqdm
-loop = tqdm(total = 10000, position=0, leave=False)
-for r in range(10000) : loop.set_description("please wait..".format(r))
+loop = tqdm(total = 50000, position=0, leave=False)
+for r in range(50000) : loop.set_description("please wait..".format(r))
 loop.update(1)
 loop.close()
 
 print''
-logop(blue + ' secority hacked ')
+logop(blue + '[✓] secority hacked ')
 print''
 print ''
 print ''
@@ -108,7 +102,7 @@ print''
 print''
 from tqdm import tqdm
 loop = tqdm(total = 10000, position=0, leave=False)
-for p in range(10000) : loop.set_description("cheacking user info".format(p))
+for p in range(50000) : loop.set_description("Creacking Password".format(p))
 loop.update(1)
 loop.close()
 print ''
@@ -123,4 +117,4 @@ logop (cyan + 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milio
 print ''
 print''
 print''
-logop(green + '        \xe2\x9c\xaa Thanks MR NASA HOCKER \xe2\x9c\xaa ')
+logop(green + '        \U0001F923 Thanks MR NASA HOCKER \U0001F923 ')

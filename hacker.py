@@ -56,117 +56,68 @@ print ''
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
 for i in range(100) :
-loop.set_description(" Ckeacking User Info ".format(i))
+loop.set_description("cheacking user info".format(i))
 loop.update(2)
 loop.close()
-logop (green + ' Creacking User Info.')
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
-logop (green + ' Creacking User Info..')
-print ''
 print '' 
 print'' 
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
+from tqdm import tqdm
+loop = tqdm(total = 100, position=0, leave=False)
+for k in range(100) :
+loop.set_description("loading user info".format(k))
+loop.update(2)
+loop.close()
 print ''
 print ''
 print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (blue  + ' cheacking secority')
-logop (blue  + ' cheacking secority')
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
+logop (green + 'loaded user info')
 print ''
 print ''
 print ''
-logop(red + '  Cheaking Password ')
+from tqdm import tqdm
+loop = tqdm(total = 100, position=0, leave=False)
+for m in range(100) :
+loop.set_description("cheacking secority".format(m))
+loop.update(2)
+loop.close()
+print ''
+print ''
+print ''
+logop (blue + ' secority chacked ')
+print ''
+print ''
+print ''
+logop (red + ' secority hacking..')
+from tqdm import tqdm
+loop = tqdm(total = 100, position=0, leave=False)
+for r in range(100) :
+loop.set_description("please wait..".format(r))
+loop.update(2)
+loop.close()
 print''
-logop(red + '  Cheaking Password ')
+logop(blue + ' secority hacked ')
 print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
-print''
-logop(red + '  Cheaking Password ')
+print ''
+print ''
+logop(blue + ' ')
 print''
 print''
-print''
-print '' 
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
-print ''
-logop (cyan + ' please wait ') 
+from tqdm import tqdm
+loop = tqdm(total = 100, position=0, leave=False)
+for p in range(100) :
+loop.set_description("cheacking user info".format(p))
+loop.update(2)
+loop.close()
 print ''
 print ''
-head = 'Hi! Nasa Howkar'
-print 'How Are You?'
-print 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milion Dolar Khoroc Kortece Cul Cirar jonno?'
+logop (yellow + 'Hi! Nasa Howkar')
+print ''
+print ''
+logop (red + ' How Are You? ')
+print ''
+print ''
+logop (cyan 'Ei Tool Diye Jodi Facebook Hack Kora Jeto Tahole Zuker Etto Milion Dolar Khoroc Kortece Cul Cirar jonno? ')
 print ''
 print''
 print''
-logop(yellow + '        \xe2\x9c\xaa Thanks MR NASA HOCKER \xe2\x9c\xaa ')
+logop(prink + '        \xe2\x9c\xaa Thanks MR NASA HOCKER \xe2\x9c\xaa ')

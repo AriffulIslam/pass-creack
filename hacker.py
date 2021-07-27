@@ -55,8 +55,7 @@ print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
-for i in range(100) :
-loop.set_description("cheacking user info".format(i))
+for i in range(100) : loop.set_description("cheacking user info".format(i))
 loop.update(2)
 loop.close()
 
@@ -65,8 +64,7 @@ print''
 
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
-for k in range(100) :
-loop.set_description("loading user info".format(k))
+for k in range(100) : loop.set_description("loading user info".format(k))
 loop.update(2)
 loop.close()
 
@@ -80,8 +78,7 @@ print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
-for m in range(100) :
-loop.set_description("cheacking secority".format(m))
+for m in range(100) : loop.set_description("cheacking secority".format(m))
 loop.update(2)
 loop.close()
 
@@ -97,8 +94,7 @@ print ''
 
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
-for r in range(100) :
-loop.set_description("please wait..".format(r))
+for r in range(100) : loop.set_description("please wait..".format(r))
 loop.update(2)
 loop.close()
 
@@ -112,8 +108,7 @@ print''
 print''
 from tqdm import tqdm
 loop = tqdm(total = 100, position=0, leave=False)
-for p in range(100) :
-loop.set_description("cheacking user info".format(p))
+for p in range(100) : loop.set_description("cheacking user info".format(p))
 loop.update(2)
 loop.close()
 print ''
